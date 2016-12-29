@@ -5,6 +5,8 @@ import urllib.request
 import urllib.parse
 import json
 import subprocess
+import os
+import fileinput
 
 import pdb
 
@@ -33,7 +35,7 @@ def get_songs_list(filename):
     file = open(filename, 'r')
     songs_list = []
     for line in file:
-        if line == '\n':
+        if line == '\n' or line.strip()[0] == '#':
             continue
         songs_list.append(get_searchable_string(line))
     file.close()
@@ -85,8 +87,10 @@ if __name__ == '__main__':
         # print(res['items'][0]['id']['videoId'])
         # print('')
 
-        url = "https://www.youtube.com/watch?v=" + res['items'][0]['id']['videoId']
-        print('Title:', res['items'][0]['snippet']['title'])
+        video_title = res['items'][0]['snippet']['title']
+        video_id = res['items'][0]['id']['videoId']
+        url = "https://www.youtube.com/watch?v=" + video_id
+        print('Title:', video_title)
         print('Url:', url)
 
         ffmpeg_path = ""
@@ -106,11 +110,21 @@ if __name__ == '__main__':
             "--max-filesize", "20m",
             "--retries", "3",
             "--ffmpeg-location", ffmpeg_path,
-            "--output", "%(title)s.%(ext)s",
+            "--output", "%(title)s-%(id)s.%(ext)s",
             "--restrict-filenames",
             url
             ],
-            shell=True)
+            shell=False)
+
+        # Check and comment a song if mp3 downloaded successfully
+        downloaded = False
+        for fname in os.listdir():
+            if video_id in fname:
+                downloaded = True
+                with fileinput.FileInput(songs_filename, inplace=True) as file:
+                    for line in file:
+                        print(line.replace(song, '# ' + song + ' --> ' + fname), end='')
+                break
 
         print("")
         
