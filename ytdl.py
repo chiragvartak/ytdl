@@ -90,8 +90,8 @@ if __name__ == '__main__':
         video_title = res['items'][0]['snippet']['title']
         video_id = res['items'][0]['id']['videoId']
         url = "https://www.youtube.com/watch?v=" + video_id
-        print('Title:', video_title)
-        print('Url:', url)
+        print('Title:', video_title, flush=True)
+        print('Url:', url, flush=True)
 
         ffmpeg_path = ""
         if sys.platform == "win32":
@@ -126,7 +126,7 @@ if __name__ == '__main__':
                         print(line.replace(song, '# ' + song + ' --> ' + fname), end='')
                 break
 
-        print("")
+        print("", flush=True)
         
 
 # https://www.youtube.com/watch?v=R0Avu3v9a8w
