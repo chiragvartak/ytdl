@@ -90,3 +90,4 @@ ENV/
 
 config.json
 songs.txt
+*.mp3
