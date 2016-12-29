@@ -7,6 +7,7 @@ import json
 import subprocess
 import os
 import fileinput
+import collections
 
 import pdb
 
@@ -29,15 +30,15 @@ def test_get_searchable_string():
     assert actual == expected
 
 def get_songs_list(filename):
-    """Return as a list the songs listed in a text file; each song should be on
+    """Return as an OrderedDict the songs listed in a text file, the key is the "searchable_string" and the value is the original line in the file; each song should be on
     a single line and different songs should be separated by at least one
     newline. Given, filename which has the list of songs."""
     file = open(filename, 'r')
-    songs_list = []
+    songs_list = collections.OrderedDict()
     for line in file:
         if line == '\n' or line.strip()[0] == '#':
             continue
-        songs_list.append(get_searchable_string(line))
+        songs_list[get_searchable_string(line)] = line
     file.close()
     return songs_list
 
@@ -63,7 +64,8 @@ if __name__ == '__main__':
     # TODO
     # check_network()geturl
     
-    for song in get_songs_list(songs_filename):
+    songs_list = get_songs_list(songs_filename)
+    for song in songs_list:
         queries = {
             "key": API_KEY,
             "part": "snippet",
@@ -123,7 +125,7 @@ if __name__ == '__main__':
                 downloaded = True
                 with fileinput.FileInput(songs_filename, inplace=True) as file:
                     for line in file:
-                        print(line.replace(song, '# ' + song + ' --> ' + fname), end='')
+                        print(line.replace(songs_list[song], '# ' + songs_list[song] + ' --> ' + fname), end='')
                 break
 
         print("", flush=True)
@@ -149,3 +151,5 @@ if __name__ == '__main__':
 
 # Video Title
 # ['items'][0]['snippet']['title']
+
+# Name of song that is replaced in different
