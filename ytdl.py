@@ -4,6 +4,8 @@ import string
 import urllib.request
 import urllib.parse
 import json
+import subprocess
+
 import pdb
 
 def get_searchable_string(s):
@@ -82,10 +84,41 @@ if __name__ == '__main__':
         # print (res['items'][0]['snippet']['title'])
         # print(res['items'][0]['id']['videoId'])
         # print('')
+
+        url = "https://www.youtube.com/watch?v=" + res['items'][0]['id']['videoId']
+        print('Title:', res['items'][0]['snippet']['title'])
+        print('Url:', url)
+
+        ffmpeg_path = ""
+        if sys.platform == "win32":
+            ffmpeg_path = r"libav\win64\usr\bin"
+        else:
+            ffmpeg_path = "libav/win64/usr/bin"
+
+        subprocess.call([
+            "ytdl",
+            "--proxy", HTTP_PROXY,
+            "--abort-on-error",
+            "--socket-timeout", "30",
+            "--extract-audio",
+            "--audio-format", "mp3",
+            "--audio-quality", "0",
+            "--max-filesize", "20m",
+            "--retries", "3",
+            "--ffmpeg-location", ffmpeg_path,
+            "--output", "%(title)s.%(ext)s",
+            "--restrict-filenames",
+            url
+            ],
+            shell=True)
+
+        print("")
         
 
+# https://www.youtube.com/watch?v=R0Avu3v9a8w
 
-
+# ytdl --proxy <HTTP_PROXY> --abort-on-error --socket-timeout "30" -x --audio-format "mp3" --max-filesize "20m" --retries "3" --ffmpeg-location "libav\win64\usr\bin" <url>
+# --audio-quality
 
 # part=snippet
 # maxResults
