@@ -9,8 +9,6 @@ import os
 import fileinput
 import collections
 
-import pdb
-
 def get_searchable_string(s):
     """Returns a new string with all the punctuations and offensive words
     removed, so that the new string is friendly for a search operation."""
@@ -38,7 +36,7 @@ def get_songs_list(filename):
     for line in file:
         if line == '\n' or line.strip()[0] == '#':
             continue
-        songs_list[get_searchable_string(line)] = line
+        songs_list[get_searchable_string(line)] = line.strip()
     file.close()
     return songs_list
 
@@ -89,11 +87,23 @@ if __name__ == '__main__':
         # print(res['items'][0]['id']['videoId'])
         # print('')
 
+        if res['pageInfo']['totalResults'] == 0:
+            print('No results for string:', song, flush=True)
+            print('')
+            continue
+
         video_title = res['items'][0]['snippet']['title']
         video_id = res['items'][0]['id']['videoId']
         url = "https://www.youtube.com/watch?v=" + video_id
-        print('Title:', video_title, flush=True)
+        try:
+            print('Title:', video_title, flush=True)
+        except UnicodeEncodeError:
+            print("<UnicodeEncodeError>", flush=True)
+        except UnicodeDecodeError:
+            print("<UnicodeDecodeError>", flush=True)
         print('Url:', url, flush=True)
+        print("Line in file:", songs_list[song], flush=True)
+        print("Searchable string:", song, flush=True)
 
         ffmpeg_path = ""
         if sys.platform == "win32":
@@ -119,10 +129,10 @@ if __name__ == '__main__':
             shell=False)
 
         # Check and comment a song if mp3 downloaded successfully
-        downloaded = False
+        # downloaded = False # Unnecessary
         for fname in os.listdir():
             if video_id in fname:
-                downloaded = True
+                # downloaded = True
                 with fileinput.FileInput(songs_filename, inplace=True) as file:
                     for line in file:
                         print(line.replace(songs_list[song], '# ' + songs_list[song] + ' --> ' + fname), end='')
@@ -152,4 +162,9 @@ if __name__ == '__main__':
 # Video Title
 # ['items'][0]['snippet']['title']
 
-# Name of song that is replaced in different
+# Name of song that is replaced in different - fixed
+# Non-unicode characters handling - fixed
+# Load output in a file by default
+# Output searchable_string too - done
+# change location of song downloads
+# Skip when no results - done
