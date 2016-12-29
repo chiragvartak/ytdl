@@ -4,6 +4,7 @@ import string
 import urllib.request
 import urllib.parse
 import json
+import pdb
 
 def get_searchable_string(s):
     """Returns a new string with all the punctuations and offensive words
@@ -42,6 +43,10 @@ if __name__ == '__main__':
     HTTP_PROXY = ''
     API_KEY = ''
 
+    if len(sys.argv) != 2:
+        print('Usage: ytdl.py <songs.txt>')
+        sys.exit(0)
+
     songs_filename = sys.argv[1]
 
     config_data = {}
@@ -50,9 +55,6 @@ if __name__ == '__main__':
     if 'HTTP_PROXY' in config_data:
         HTTP_PROXY = config_data['HTTP_PROXY']
     API_KEY = config_data['API_KEY']
-
-    if len(sys.argv) != 2:
-        print('Usage: ytdl.py <songs.txt>')
 
     # TODO
     # check_network()geturl
@@ -69,12 +71,19 @@ if __name__ == '__main__':
         url = "https://www.googleapis.com/youtube/v3/search?" + query_string
         # response = urllib.request.urlopen("https://www.google.com/")
         response = urllib.request.urlopen(url)
+        # pdb.set_trace()
+        # sys.exit(0)
         if response.getcode() != 200:
             print('GET ', response.geturl(), 'returned a', response.getcode())
             sys.exit(1)
         # if response
-        json.load(response.read())
-        # ['items'][0]['snippet']['title']
+        response_dict = json.loads(response.read().decode('utf-8'))
+        res = response_dict
+        # print (res['items'][0]['snippet']['title'])
+        # print(res['items'][0]['id']['videoId'])
+        # print('')
+        
+
 
 
 
@@ -85,3 +94,11 @@ if __name__ == '__main__':
 
 # %load_ext autoreload
 # %autoreload 2
+
+# res = response.read().decode('utf-8')
+
+# Video URL part
+# ['items'][0]['id']['videoId']
+
+# Video Title
+# ['items'][0]['snippet']['title']
