@@ -22,10 +22,12 @@ I use the [Youtube Data API](https://developers.google.com/youtube/v3/) to searc
 
 2. The file that contains the list of songs (I simply refer to it as `songs.txt`) should separate different songs by at least a newline. Also make sure to have one song on a single line.
 
-3. `youtube-dl` requires some additional binaries to be able to convert files to mp3. Theya re present in the `utils/` directory.
+3. `youtube-dl` requires some additional binaries to be able to convert files to mp3. They are present in the `utils/` directory.
 
 4. Songs will be deleted from your `songs.txt` after downloading them. This makes it possible to simply run the script on any computer without the fear of downloading songs multiple times between computers.
 
-5. (TODO: Press `Ctrl-C` anytime while downloading is ongoing. It won't break anything or create any inconsistencies.)
+5. ([TODO](https://github.com/chiragvartak/ytdl/issues/8): Press `Ctrl-C` anytime while downloading is ongoing. It won't break anything or create any inconsistencies.)
 
 6. The script is intended to run with Python 3, not Python 2.
+
+7. You need to always have the [latest youtube-dl executable](https://github.com/rg3/youtube-dl/releases/latest). Because [Google frequently changes the way to access Youtube](https://askubuntu.com/questions/598200/youdtube-dl-failed-to-extract-signature).
