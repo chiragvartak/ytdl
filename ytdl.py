@@ -47,11 +47,12 @@ if __name__ == '__main__':
     HTTP_PROXY = ''
     API_KEY = ''
 
-    if len(sys.argv) != 2:
-        print('Usage: ytdl.py <songs.txt>')
+    if len(sys.argv) != 3:
+        print('Usage: ytdl.py <songs.txt> <download-folder>')
         sys.exit(0)
 
     songs_filename = sys.argv[1]
+    download_folder = sys.argv[2]
 
     config_data = {}
     with open(config_filename, 'r') as f:
@@ -117,7 +118,7 @@ if __name__ == '__main__':
             "--max-filesize", "20m",
             "--retries", "3",
             "--ffmpeg-location", ffmpeg_path,
-            "--output", "%(title)s-%(id)s.%(ext)s",
+            "--output", os.path.join(download_folder, "%(title)s-%(id)s.%(ext)s"),
             "--restrict-filenames",
             url
             ],
@@ -125,7 +126,7 @@ if __name__ == '__main__':
 
         # Check and comment a song if mp3 downloaded successfully
         # downloaded = False # Unnecessary
-        for fname in os.listdir():
+        for fname in os.listdir(download_folder):
             if video_id in fname:
                 # downloaded = True
                 with fileinput.FileInput(songs_filename, inplace=True) as file:
