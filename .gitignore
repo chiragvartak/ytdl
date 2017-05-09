@@ -89,6 +89,4 @@ ENV/
 .ropeproject
 
 config.json
-songs.txt
-songs.sh
 *.mp3
