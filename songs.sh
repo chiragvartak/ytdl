@@ -13,8 +13,8 @@
 # Aditi --> Kabhi_Kabhi_Aditi_HD-f3hINqW-Z00.mp3
 # Bebo --> Bebo_kambakht_ishq_full_song_720p_hd-uvLmCLPTFk0.mp3
 # In my mind --> Ivan_Gough_Feenixpawl_ft._Georgi_Kay_-_In_My_Mind_Axwell_Mix_OFFICIAL_VIDEO-R4shwJBnYEM.mp3
-in my mind swedish house mafia
-preet khubsurat
+# in my mind swedish house mafia --> Swedish_house_Mafia_@_Tomorrowland_In_My_Mind_.mov-BGIPoHpaaU4.mp3
+# preet khubsurat --> OFFICIAL_-_Preet_FULL_VIDEO_Song_Khoobsurat_Jasleen_Royal_Sonam_Kapoor-BJXl0kO0YC0.mp3
 # Sab rishte naate haske tod du --> Rishte_Naate_Full_Video_Song_De_Dana_Dan_Akshay_Kumar_Katrina_Kaif_Rahat_Fateh_Ali_Khan-XEaSaEg2hFw.mp3
 # my heart will go on celine dion --> Celine_Dion_-_My_Heart_Will_Go_On-FHG2oizTlpY.mp3
 # Pyaar impossible --> Pyaar_Impossible_-_Full_Title_Song_Uday_Chopra_Priyanka_Chopra_Dominique_Cerejo_Vishal-lQTjdQl09Cg.mp3
@@ -23,7 +23,7 @@ preet khubsurat
 # Dhoop ka makaan --> Dhoop_Ke_Makaan_Full_Video_Song_Break_Ke_Baad_Imran_Khan_Deepika_Padukone-vEi8i-LATnc.mp3
 # Phir le aaya dil --> Phir_Le_Aaya_Dil_-_Barfi_Official_HD_Song_Video_-_Ranbir_Kapoor_Priyanka_Chopra_Ileana_D_Cruz-PiJhv5Ic644.mp3
 # Manchala --> Manchala_Video_-_Parineeti_Chopra_Sidharth_Hasee_Toh_Phasee-NobzfIebbrE.mp3
-sinbad the sailor rock on
+# sinbad the sailor rock on --> Sinbad_The_Sailor_Full_Song_Rock_On-eY62RfeviuE.mp3
 # Bheegi bheegi si hi raate --> Bheegi_Bheegi_-_Gangster-hsGzxWDnzQg.mp3
 # Wake up Sid --> Wake_Up_Sid_-_Club_Mix_Ranbir_Kapoor-ezgYup6T5Vw.mp3
 # Tera nasha --> The_Bilz_Kashif_-_Tera_Nasha_Official_Video_HQ-sUmZvAafs3Y.mp3
@@ -33,7 +33,7 @@ sinbad the sailor rock on
 # Yahan kadam kadam par laakhon hasinayein hain song - Badshah --> Woh_Ladki_Jo_Full_Video_Song_Baadshah_Shahrukh_Khan_Twinkle_Khanna_Abhijeet-_ChywBU14yE.mp3
 # Carnival of rust song --> Poets_of_the_Fall_-_Carnival_of_Rust_Official_Video-MKk1u5RMTn4.mp3
 # Aaja piya old song --> Aaja_piya_tohe_pyar_doon_-_Baharon_Ke_Sapne_HD-atmHp4CQAdg.mp3
-ya ali gangster
+# ya ali gangster --> Ya_Ali_Full_Song_Gangster-_A_Love_Story-DG85lqOAu7Y.mp3
 # Teri galiyan song --> Teri_Galiyan_full_video_song_-_Ek_Villian-ht8m9jfkg2s.mp3
 # You spin my head right rhound song --> Flo_Rida_-_Right_Round_US_Version_Video-CcCw1ggftuQ.mp3
 # Pink Lips song --> Pink_Lips_Full_Video_Song_Sunny_Leone_Hate_Story_2_Meet_Bros_Anjjan_Feat_Khushboo_Grewal-w5VFOKKAbQQ.mp3
@@ -45,7 +45,7 @@ ya ali gangster
 # Time of our life song --> Euro_2016_France_-_Promo_-_Time_Of_Our_Lives-UkpjphDhrqs.mp3
 # Aadat se majboor --> Aadat_Se_Majboor_-_Full_Song_Ladies_vs_Ricky_Bahl_Ranveer_Singh-sB-S5LBU1eA.mp3
 # Cadillacs song --> Carrie_Underwood_-_Two_Black_Cadillacs-oVEBZLrjpw4.mp3
-Lorde Royals
+# Lorde Royals --> Lorde_-_Royals_US_Version-nlcIKh6sBtc.mp3
 # I kissed a girl song --> Katy_Perry_-_I_Kissed_A_Girl_Official-tAp9BKosZXs.mp3
 # Manmani song --> Manmmani_-_Official_Music_Video_Kangna_Sharma_Danish_Bhat_Palash_Muchhal-18bEPJ7RGAY.mp3
 # Ajab lehar hain break ke baad --> Ajab_Lehar_Hai_Break_Ke_Baad_Full_Video_Song_Imran_Khan_Deepika_Padukone-G-pRQFsHUo0.mp3
@@ -82,7 +82,7 @@ Lorde Royals
 # song: Of the night, Bastiele --> Bastille_-_Of_The_Night-ZCTDKLjdok4.mp3
 # song: Virus, Martin Garrix --> Martin_Garrix_MOTi_-_Virus_How_About_Now_Official_Music_Video-bH4YSVZOq-U.mp3
 # song: Chadelier, Sia --> Sia_-_Chandelier_Official_Video-2vjPBrBU-TM.mp3
-let her go passenger
+# let her go passenger --> Passenger_Let_Her_Go_Official_Video-RBumgq5yVrA.mp3
 # song: Somebody that I used to know, Walk off the earth --> Somebody_That_I_Used_to_Know_-_Walk_off_the_Earth-d9NF2edxy-M.mp3
 # song: Safe and sound --> Capital_Cities_-_Safe_And_Sound_Official_Video-47dtFZ8CFo8.mp3
 # song: Dream on, Aerosmith --> Dream_On_by_Aerosmith_lyrics-hHRNSeuvzlM.mp3 --> DELETED
@@ -93,76 +93,76 @@ let her go passenger
 # song: Club can't handle me, Flo Rida feat. David Guetta --> Flo_Rida_-_Club_Can_t_Handle_Me_ft._David_Guetta_Official_Music_Video_-_Step_Up_3D-SgM3r8xKfGE.mp3
 # song: Arriving somewhere but not here, Porcupine Tree --> Porcupine_Tree_Arriving_somewhere_but_not_here-WbWhpfXisZw.mp3
 # song: We could be heroes --> Alesso_-_Heroes_we_could_be_ft._Tove_Lo-a7SouU3ECpU.mp3
-song: Cool, Alesso
-don't be shy imany
-song: Words, Boy Zone
-song: Toyfriend
-song: Higher place, feat. Ne-Yo
-song: Sorry, Justin Bieber
-song: One more night - Maroon V
-song: Alvida - KK
-song: Zehnaseeb
-song: Mera naam Mary hain
-song: Tu Muskura - Alka Yagnik
-mast magan 2 states
-offo 2 states
-song: Locha e ulfat
-laree choote ek chalis ki last local
-song: Stay - Lewis Watson
-song: Soch na sake - Arijit Singh
-song: Maahi Ve - Highway movie
-song: Best day of my life - American Authors
-song: Ek nazar me bhi - Taxi No. 9211
-sadi gali tanu weds manu
-song: Gulabi Aankhen - Sanam
-mere sapno ki rani sanam
-song: Kaise bataoon - Mithoon
-tujhse naraz nahi zindagi sanam
-song: Mujhe jeena sikha diya
-o re piya aaja nachle madhuri dixit
-pyar ki pungi agent vinod
-Duri sahi jaye naa
-song: The one that got away - Katy Perry
-song: Tukur tukur - Pritam
-song: We will rock you
-song: Riders of the storm
-raabta agent vinod
-raat bhar audio
-masakali delhi 6
-Badtameez Dil
-bheegi bheegi gangster
-soch na sake audio
-boro boro bluffmaster
-Pill in Ibiza
-love you zindagi dear zindagi audio
-We dont talk anymore
-Teri meri baatein hamesha  chalti rahe
-Treat you better - Shawn Mendes
-Khabar nahi
-agar tum saath ho tamasha audio
-suraj dooba hain audio
-jab tak m s dhoni
-Sau aasmaan baar baar dekho
-Kaun tujhe M S Dhoni
-Viva la vida - coldplay
-Yeh Jo Halka Halka Suroor Hai Farhan Saeed (Official Video)
-The Sound of Silence (Original Version from 1964)
-John Legend - All of Me
-Coldplay Hymn for the weekend
-jogi swastik
-DNCE - Cake By The Ocean
-Shoutout to my ex
-galla gudiya audio
-Teen gavah full song
-bawara mann jolly llb
-Subhan allah jo ho raha
-Afreen Coke Studio
-Stolen dance song
-Lost Coldplay
-A sky full of stars - Coldplay
-Top of the world - Imagine Dragons
-suno aisha
-dostana jaane kyun
+# song: Cool, Alesso --> Alesso_-_Cool_ft._Roy_English--aWtrEFfS4E.mp3
+# don't be shy imany --> IMANY-_Don_t_be_so_shy_clip_officiel-fVKukp755N0.mp3
+# song: Words, Boy Zone --> boyzone_words-g2CC5NdMAMo.mp3
+# song: Toyfriend --> David_Guetta_-_Toy_Friend-vWJO-SKyDec.mp3
+# song: Higher place, feat. Ne-Yo --> Dimitri_Vegas_Like_Mike_feat._Ne-Yo_-_Higher_Place_Official_Music_Video-CDLTmBiY3mg.mp3
+# song: Sorry, Justin Bieber --> Justin_Bieber_-_Sorry_PURPOSE_-_The_Movement-fRh_vgS2dFE.mp3
+# song: One more night - Maroon V --> Maroon_5_-_One_More_Night-fwK7ggA3-bU.mp3
+# song: Alvida - KK --> Alvida_-_Life_In_A_Metro-Vs59WX9vjmE.mp3
+# song: Zehnaseeb --> Zehnaseeb_Lyric_-_Hasee_Toh_Phasee_Parineeti_Chopra_Sidharth-WnU0lH6C0EA.mp3
+# song: Mera naam Mary hain --> Mera_Naam_Mary_-_Brothers_Kareena_Kapoor_Khan_Sidharth_Malhotra-MHtLjTRdFBE.mp3
+# song: Tu Muskura - Alka Yagnik --> Tu_Muskura_Full_HD_Video_Song_Yuvvraaj_Kartina_Kaif-epYqR2mL8DY.mp3
+# mast magan 2 states --> Mast_Magan_FULL_Video_Song_2_States_Arijit_Singh_Arjun_Kapoor_Alia_Bhatt-xitd9mEZIHk.mp3
+# offo 2 states --> Offo_Full_Video_Song_2_States_Arjun_Kapoor_Alia_Bhatt_Amitabh_Bhattacharya-YPlIhgAX9AQ.mp3
+# song: Locha e ulfat --> Locha_E_Ulfat_FULL_Video_Song_2_States_Arjun_Kapoor_Alia_Bhatt-G6RR2_NQ530.mp3
+# laree choote ek chalis ki last local --> laree_choote-ek_chalis_ki_last_local-cyFsQS-sA10.mp3
+# song: Stay - Lewis Watson --> lewis_watson_-_stay_official_video-wLkX37nwugY.mp3
+# song: Soch na sake - Arijit Singh --> SOCH_NA_SAKE_Full_Audio_AIRLIFT_Akshay_Kumar_Nimrat_Kaur_Arijit_Singh_Tulsi_Kumar-IQ-IzgNhvhg.mp3
+# song: Maahi Ve - Highway movie --> A.R_Rahman_Maahi_Ve_Full_Song_Audio_Highway_Alia_Bhatt_Randeep_Hooda_Imtiaz_Ali-S1aQhVUy_9g.mp3
+# song: Best day of my life - American Authors --> American_Authors_-_Best_Day_Of_My_Life-Y66j_BUCBMY.mp3
+# song: Ek nazar me bhi - Taxi No. 9211 --> Ek_Nazar_Mein_Bhi_-_Taxi_No._9211-96sX6ll732k.mp3
+# sadi gali tanu weds manu --> Sadi_Gali_Full_Song_Tanu_Weds_Manu_Ft._Kangna_Ranaut_R_Madhavan-w_HaezV0DqI.mp3
+# song: Gulabi Aankhen - Sanam --> Gulabi_Aankhen_Sanam-hgi2MYAFgE8.mp3
+# mere sapno ki rani sanam --> Mere_Sapno_Ki_Rani_Sanam-IrpRI8NyulE.mp3
+# song: Kaise bataoon - Mithoon --> Kaise_Bataaoon_Video_Song_3G_Neil_Nitin_Mukesh_Sonal_Chauhan-5H3FhXFeEz4.mp3
+# tujhse naraz nahi zindagi sanam --> Tujhse_Naraz_Nahi_Zindagi_Sanam-uyzUJwWg9yM.mp3
+# song: Mujhe jeena sikha diya --> Jeena_Sikha_Diya_full_video_song=_Do_Lafzon_Ki_Kahani-DFrjsT6Ple8.mp3
+# o re piya aaja nachle madhuri dixit --> O_Re_Piya_-_Full_Song_with_Dialogues_Aaja_Nachle_Madhuri_Dixit-U3AfQsHvZVA.mp3
+# pyar ki pungi agent vinod --> Agent_Vinod_Pyar_Ki_Pungi_Full_Video_Song_HD_Saif_Ali_Khan-Sjh1PQ9B73Y.mp3
+# Duri sahi jaye naa --> Doorie_-_Doorie_Atif_Aslam_Sachin_Gupta-hP2p-yH1tGU.mp3
+# song: The one that got away - Katy Perry --> Katy_Perry_-_The_One_That_Got_Away_Official-Ahha3Cqe_fk.mp3
+# song: Tukur tukur - Pritam --> Tukur_Tukur_-_Dilwale_Shah_Rukh_Khan_Kajol_Varun_Kriti_Official_New_Song_Video_2015-0-ggsgFh5TI.mp3
+# song: We will rock you --> Queen_-_We_Will_Rock_You_Official_Video--tJYN-eG1zk.mp3
+# song: Riders of the storm --> The_Doors_-_Riders_On_The_Storm_ORIGINAL_-_driving_with_Jim-lS-af9Q-zvQ.mp3
+# raabta agent vinod --> Raabta_Kehte_Hain_Khuda_Full_Song_With_Lyrics_Agent_Vinod_Saif_Ali_Khan_Kareena_Kapoor-zlt38OOqwDc.mp3
+# raat bhar audio --> Heropanti_-_Raat_Bhar_Full_Audio_Song_Tiger_Shroff_Kriti_Sanon-S8GKtyu27FY.mp3
+# masakali delhi 6 --> Masakali_Full_Song_-_Delhi_6-SS3lIQdKP-A.mp3
+# Badtameez Dil --> Badtameez_Dil_Full_Song_HD_Yeh_Jawaani_Hai_Deewani_Ranbir_Kapoor_Deepika_Padukone-II2EO3Nw4m0.mp3
+# bheegi bheegi gangster --> Bheegi_Bheegi_-_Gangster-hsGzxWDnzQg.mp3
+# soch na sake audio --> SOCH_NA_SAKE_Full_Audio_AIRLIFT_Akshay_Kumar_Nimrat_Kaur_Arijit_Singh_Tulsi_Kumar-IQ-IzgNhvhg.mp3
+# boro boro bluffmaster --> Bure_Bure_Boro_Boro_-_Full_Song_-_Bluffmaster_-_Sub_Espanol-k2Ya5zvXB9o.mp3
+# Pill in Ibiza --> Mike_Posner_-_I_Took_A_Pill_In_Ibiza_Seeb_Remix_Explicit-foE1mO2yM04.mp3
+# love you zindagi dear zindagi audio --> Love_You_Zindagi_-_Official_Lyric_Video_Gauri_S_Alia_Shah_Rukh_Amit_Kausar_M_Jasleen_R-rwn0Zs7ELzc.mp3
+# We dont talk anymore --> Charlie_Puth_-_We_Don_t_Talk_Anymore_feat._Selena_Gomez_Official_Video-3AtDnEC4zak.mp3
+# Teri meri baatein hamesha  chalti rahe --> Ye_Tumhari_Meri_Baatein_Full_Song_Rock_On_Arjun_Rampal_Farhan_Akhtar-LpmGCHYAj1E.mp3
+# Treat you better - Shawn Mendes --> Shawn_Mendes_-_Treat_You_Better-lY2yjAdbvdQ.mp3
+# Khabar nahi --> Dostana_-_Khabar_Nahi_Video_Priyanka_Chopra_Abhishek_John-eIjFX9fVgv0.mp3
+# agar tum saath ho tamasha audio --> Agar_Tum_Saath_Ho_FULL_AUDIO_Song_Tamasha_Ranbir_Kapoor_Deepika_Padukone_T-Series-sK7riqg2mr4.mp3
+# suraj dooba hain audio --> Sooraj_Dooba_Hain_FULL_AUDIO_Song_Roy_Arijit_singh_Ranbir_Kapoor_Arjun_Rampal_T-Series-atPc4PDEp24.mp3
+# jab tak m s dhoni --> JAB_TAK_Video_Song_M.S._DHONI_-THE_UNTOLD_STORY_Armaan_Malik_Amaal_Mallik_Sushant_Singh_Rajput-0mQLTWvXbXM.mp3
+# Sau aasmaan baar baar dekho --> Sau_Aasmaan_-_Full_Video_Baar_Baar_Dekho_Sidharth_Malhotra_Katrina_Kaif_Armaan_Neeti_Mohan-mpjNh-uGBY4.mp3
+# Kaun tujhe M S Dhoni --> KAUN_TUJHE_Video_M.S._DHONI_-THE_UNTOLD_STORY_Amaal_Mallik_Palak_Sushant_Singh_Disha_Patani-JHUrRSBtUNE.mp3
+# Viva la vida - coldplay --> Coldplay_-_Viva_La_Vida-dvgZkm1xWPE.mp3
+# Yeh Jo Halka Halka Suroor Hai Farhan Saeed (Official Video) --> Yeh_Jo_Halka_Halka_Suroor_Hai_Farhan_Saeed_Official_Video-OZWCAfxK4Bw.mp3
+# The Sound of Silence (Original Version from 1964) --> The_Sound_of_Silence_Original_Version_from_1964-4zLfCnGVeL4.mp3
+# John Legend - All of Me --> John_Legend_-_All_of_Me-450p7goxZqg.mp3
+# Coldplay Hymn for the weekend --> Coldplay_-_Hymn_For_The_Weekend_Official_Video-YykjpeuMNEk.mp3
+# jogi swastik --> Jogi_official_music_video_-_Swastik-OD7d1e1mwyQ.mp3
+# DNCE - Cake By The Ocean --> DNCE_-_Cake_By_The_Ocean-vWaRiD5ym74.mp3
+# Shoutout to my ex --> Little_Mix_-_Shout_Out_to_My_Ex_Official_Video-bFDzhKdrN9M.mp3
+# galla gudiya audio --> Gallan_Goodiyaan_Full_Song_Audio_Dil_Dhadakne_Do_T-Series-T577v-kISIU.mp3
+# Teen gavah full song --> TEEN_GAWAH_Full_Audio_Song_MIRZYA_Shankar_Ehsaan_Loy_Rakeysh_Omprakash_Mehra_Gulzar_T-Series-Zyst62igimw.mp3
+# bawara mann jolly llb --> Bawara_Mann_Video_Song_Jolly_LL.B_2_Akshay_Kumar_Huma_Qureshi_Jubin_Nautiyal_Neeti_Mohan-xuMFlMMz--4.mp3
+# Subhan allah jo ho raha --> Subhanallah_-_HD-G6vZTRUPouc.mp3
+# Afreen Coke Studio --> Afreen_Afreen_Rahat_Fateh_Ali_Khan_Momina_Mustehsan_Episode_2_Coke_Studio_Season_9-kw4tT7SCmaY.mp3
+# Stolen dance song --> Milky_Chance_-_Stolen_Dance_Album_Version-iX-QaNzd-0Y.mp3
+# Lost Coldplay --> Coldplay_-_Lost-Pkgeai985rA.mp3
+# A sky full of stars - Coldplay --> Coldplay_-_A_Sky_Full_Of_Stars_Official_Video-VPRjCeoBqrI.mp3
+# Top of the world - Imagine Dragons --> Imagine_Dragons_-_On_Top_Of_The_World_Official_Music_Video-w5tWYmIOWGk.mp3
+# suno aisha --> Suno_Aisha_-_Aisha_Sonam_Kapoor_Ira_Dubey_Amrita_Puri-fAzO3s7Dgnw.mp3
+# dostana jaane kyun --> Dostana_-_Jaane_Kyun_Video_Priyanka_Chopra_Abhishek_John-n0PoVxBMUyE.mp3
 
 # Songs from Ruchika's list
 # Jeena Jeena(Badlapur) --> Jeena_Jeena_HD_Full_Video_Song_Badlapur_2015_Atif_Aslam_Varun_Dhawan_Yami_Gautam-SjsIws_8ozg.mp3
