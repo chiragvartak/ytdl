@@ -103,9 +103,9 @@ if __name__ == '__main__':
 
         ffmpeg_path = ""
         if sys.platform == "win32":
-            ffmpeg_path = r"libav\win64\usr\bin"
+            ffmpeg_path = r"ffmpeg-3.2.4-win64-static\bin"
         else:
-            ffmpeg_path = "libav/win64/usr/bin"
+            ffmpeg_path = "ffmpeg-3.2.4-win64-static/bin"
 
         subprocess.call([
             "ytdl",
@@ -117,6 +117,7 @@ if __name__ == '__main__':
             "--audio-quality", "0",
             "--max-filesize", "20m",
             "--retries", "3",
+            "--prefer-ffmpeg",
             "--ffmpeg-location", ffmpeg_path,
             "--output", os.path.join(download_folder, "%(title)s-%(id)s.%(ext)s"),
             "--restrict-filenames",
