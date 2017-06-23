@@ -60,6 +60,9 @@ if __name__ == '__main__':
     if 'HTTP_PROXY' in config_data:
         HTTP_PROXY = config_data['HTTP_PROXY']
     API_KEY = config_data['API_KEY']
+    print('Your API_KEY:', API_KEY)
+    print('Your HTTP_PROXY:', HTTP_PROXY)
+    print('^ Hope that they are both correct.')
 
     # TODO
     # check_network()

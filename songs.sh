@@ -6,6 +6,7 @@
 # Ddlg a particular song
 # All old songs from trash folders
 # All Jannat songs
+# Sauda hain dil ka - Aakrosh
 
 # Animals --> Martin_Garrix_-_Animals_Official_Video-gCYcHz2k5x0.mp3
 # Man udhaan varyache --> Sagarika_Music-XZogVSlBB34.mp3
@@ -227,7 +228,7 @@
 # Haal e dil(murder 2) --> Hale_Dil_Tujhko_Sunata_Murder_2_Full_Video_Song_Emraan_Hashmi-uSibwB2TQC4.mp3
 # Tu jaane na(Ajab Prem Ki Ghazab Kahani) --> Tu_Jaane_Na_-_Bollywood_Sing_Along_-_Ajab_Prem_Ki_Ghazab_Kahani_-_Atif_Aslam-P8PWN1OmZOA.mp3
 # Mere Bina (Crook) --> Crook_-_Emraan_Hashmi_Neha_Sharma_Mere_Bina_Video-XvUSsh3gdO4.mp3
-# Kabhi Jo Badal Barse(Jackpot) --> Kabhi_Jo_Badal_Barse_Song_Video_Jackpot_Arijit_Singh_Sachiin_J_Joshi_Sunny_Leone-RazuWp5kSHk.webm.part
+Kabhi Jo Badal Barse(Jackpot)
 # Abhi Kuch Dino Se(Dil Toh Bacha Hai Ji) --> Abhi_Kuch_Dino_Se_Full_Song_Dil_Toh_Baccha_Hai_Ji_Emraan_hashmi_Ajay_Devgn-fbdxYoFb64g.mp3
 # Bezubaan(Piku) --> Bezubaan_-_Piku_Anupam_Roy_Amitabh_Bachchan_Irrfan_Khan_Deepika_Padukone-RVRlV53TjzY.mp3
 # Tumhi hi Bandhu(Cocktail) --> Tumhi_Ho_Bandhu_Full_Video_Song_Cocktail_Saif_Ai_Khan_Deepika_Padukone_Diana_Penty-o1RducJbUdc.mp3
@@ -261,3 +262,20 @@
 # Jhak Maar Ke(Desi Boyz) --> Jhak_Maar_Ke_Full_Song_Desi_Boyz_Deepika_Padukone_John_Abraham-R5CxtjmrIE4.mp3
 # Saathi Re(Kapoor and Sons) --> Saathi_Rey_Lyric_Video_Kapoor_Sons_Sidharth_Alia_Fawad_Rishi_Kapoor_Arko-SYU4zsp8_fY.mp3
 # Bawra Mann(Jolly LLB 2) --> Bawara_Mann_Video_Song_Jolly_LL.B_2_Akshay_Kumar_Huma_Qureshi_Jubin_Nautiyal_Neeti_Mohan-xuMFlMMz--4.mp3
+
+# From Google Keep - 23rd June
+# Exclusive Preet Full AUDIO SONG Khoobsurat Sonam Kapoor Bolllywood Songs --> Exclusive_-_Preet_Full_AUDIO_SONG_Khoobsurat_Sonam_Kapoor_Bolllywood_Songs-tHnYzexLrv4.mp3
+# rabba main toh mar gaya oye tseries --> Rabba_Mein_Toh_Mar_Gaya_Oye_Full_Song_Mausam_Feat._Shahid_kapoor_Sonam_Kapoor-rWC4EC6GQN0.mp3
+# To be human feat. Sia --> Sia_-_To_Be_Human_feat._Labrinth_-_From_The_Wonder_Woman_Soundtrack_Official-T84LqClui9A.mp3
+# Make it bun dem - skrillex --> Skrillex_Damian_Jr._Gong_Marley_-_Make_It_Bun_Dem_OFFICIAL_VIDEO-BGpzGu9Yp6Y.mp3
+# Believer - Imagine Dragons --> Imagine_Dragons_-_Believer_Live_On_The_Honda_Stage-jGS2WPrwYQE.mp3
+# Vengaboys - we are going to ibiza --> Vengaboys_-_We_re_Going_to_Ibiza-MXXRHpVed3M.mp3
+# on the floor - jennifer lopez --> Jennifer_Lopez_-_On_The_Floor_ft._Pitbull-t4H_Zoh7G5A.mp3
+# aashiyan - barfi --> Aashiyan_-_Barfi_Ranbir_Kapoor_Priyanka_Chopra-sCMNen9q3fI.mp3
+# kyon - barfi --> Kyon_-_Barfi_Ranbir_Kapoor_Priyanka_Chopra-X_q9IXvt3ro.mp3
+# dropkick murphys - shipping up to boston --> I_m_Shipping_Up_To_Boston_-_Dropkick_Murphys-x-64CaD8GXw.mp3
+# boom clap - charli xcx --> The_Fault_In_Our_Stars_-_Charli_XCX_-_Boom_Clap-AOPMlIIg_38.mp3
+# Thinking out loud - Ed Sheeran --> Ed_Sheeran_-_Thinking_Out_Loud_Official_Video-lp-EO5I60KA.mp3
+# airplanes b.o.b --> B.o.B_-_Airplanes_ft._Hayley_Williams_of_Paramore_OFFICIAL_VIDEO-kn6-c223DUU.mp3
+# B.o.B - Airplanes Part. 2 --> B.o.B_-_Airplanes_Part._2_Ft._Eminem_Hayley_Williams_CDQ_W_Lyrics-aJ_M4pV_eOQ.mp3
+# naive the kooks --> The_Kooks_-_Naive-jkaMiaRLgvY.mp3
