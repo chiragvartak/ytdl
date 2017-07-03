@@ -7,6 +7,7 @@
 # All old songs from trash folders
 # All Jannat songs
 # Sauda hain dil ka - Aakrosh
+# We are electric - Flying steps
 
 # Animals --> Martin_Garrix_-_Animals_Official_Video-gCYcHz2k5x0.mp3
 # Man udhaan varyache --> Sagarika_Music-XZogVSlBB34.mp3
@@ -228,7 +229,7 @@
 # Haal e dil(murder 2) --> Hale_Dil_Tujhko_Sunata_Murder_2_Full_Video_Song_Emraan_Hashmi-uSibwB2TQC4.mp3
 # Tu jaane na(Ajab Prem Ki Ghazab Kahani) --> Tu_Jaane_Na_-_Bollywood_Sing_Along_-_Ajab_Prem_Ki_Ghazab_Kahani_-_Atif_Aslam-P8PWN1OmZOA.mp3
 # Mere Bina (Crook) --> Crook_-_Emraan_Hashmi_Neha_Sharma_Mere_Bina_Video-XvUSsh3gdO4.mp3
-Kabhi Jo Badal Barse(Jackpot)
+# Kabhi Jo Badal Barse(Jackpot) --> Kabhi_Jo_Badal_Barse_Song_Video_Jackpot_Arijit_Singh_Sachiin_J_Joshi_Sunny_Leone-RazuWp5kSHk.mp3
 # Abhi Kuch Dino Se(Dil Toh Bacha Hai Ji) --> Abhi_Kuch_Dino_Se_Full_Song_Dil_Toh_Baccha_Hai_Ji_Emraan_hashmi_Ajay_Devgn-fbdxYoFb64g.mp3
 # Bezubaan(Piku) --> Bezubaan_-_Piku_Anupam_Roy_Amitabh_Bachchan_Irrfan_Khan_Deepika_Padukone-RVRlV53TjzY.mp3
 # Tumhi hi Bandhu(Cocktail) --> Tumhi_Ho_Bandhu_Full_Video_Song_Cocktail_Saif_Ai_Khan_Deepika_Padukone_Diana_Penty-o1RducJbUdc.mp3
@@ -279,3 +280,58 @@ Kabhi Jo Badal Barse(Jackpot)
 # airplanes b.o.b --> B.o.B_-_Airplanes_ft._Hayley_Williams_of_Paramore_OFFICIAL_VIDEO-kn6-c223DUU.mp3
 # B.o.B - Airplanes Part. 2 --> B.o.B_-_Airplanes_Part._2_Ft._Eminem_Hayley_Williams_CDQ_W_Lyrics-aJ_M4pV_eOQ.mp3
 # naive the kooks --> The_Kooks_-_Naive-jkaMiaRLgvY.mp3
+
+# Youtube Liked Videos
+# Game of Thrones: Season 6 OST - Light of the Seven --> Game_of_Thrones_-_Season_6_OST_-_Light_of_the_Seven_EP_10_Trial_scene-pS-gbqbVd8c.mp3
+# Sam Smith - Like I can --> Sam_Smith_-_Like_I_Can-xeugznpGKPA.mp3
+# Pharrell Williams - Happy --> Pharrell_Williams_-_Happy_Official_Music_Video-y6Sxv-sUYtM.mp3
+# Martin Garrix and Dua Lipa - Scared to be lonely --> Martin_Garrix_Dua_Lipa_-_Scared_To_Be_Lonely_Official_Video-e2vBLd5Egnk.mp3
+# Sean Paul - No Lie --> Sean_Paul_-_No_Lie_ft._Dua_Lipa-GzU8KqOY8YA.mp3
+# Chaos Chaos - Breaker --> Chaos_Chaos_formerly_Smoosh_-_Breaker-2VioijRLGcw.mp3
+# The Kills - Future Starts Slow --> The_Kills_-_Future_Starts_Slow-NwudqTCkBis.mp3
+# Chaos Chaos - Do You Feel It --> Chaos_Chaos_formerly_Smoosh_-_Do_You_Feel_It-pTA0DSfrGZ0.mp3
+# Cant stop the feeling - Justin Timberlake --> CAN_T_STOP_THE_FEELING_From_DreamWorks_Animation_s_Trolls_Official_Video-ru0K8uYEZWw.mp3
+# Calvin Harris and Disciples - How Deep is Your Love --> Calvin_Harris_Disciples_-_How_Deep_Is_Your_Love-EgqUJOudrcM.mp3
+# The Chainsmokers and Coldplay - Something Just Like This --> The_Chainsmokers_Coldplay_-_Something_Just_Like_This_Lyric-FM7MFYoylVs.mp3
+# Eminem - Kings Never Die --> Eminem_-_Kings_Never_Die_Lyric_Video_ft._Gwen_Stefani-rpERSigjqXs.mp3
+# Eminem - Beautiful --> Eminem_-_Beautiful-lgT1AidzRWM.mp3
+# 2 chains and wiz khalifa - we own it, fast and furious --> 2_Chainz_Wiz_Khalifa_-_We_Own_It_Fast_Furious_Lyric_Video-tYQ1Okyi3g4.mp3
+# Eminem - lose yourself --> Eminem_-_Lose_Yourself_HD-_Yhyp-_hX2s.mp3
+# Eminem - till i collapse --> Eminem_-_Till_I_Collapse_HD-ytQ5CYE1VZw.mp3
+# avicii - wake me up --> Avicii_-_Wake_Me_Up_Official_Video-IcrbM1l_BoI.mp3
+# ed sheeran - shape of you --> Ed_Sheeran_-_Shape_of_You_Official_Video-JGwWNGJdvx8.mp3
+# cigarettes - russian red --> cigarettes_-_russian_red-UIfJxxPVWOY.mp3
+# eminem - love the way you lie --> Eminem_-_Love_The_Way_You_Lie_ft._Rihanna-uelHwf8o7_U.mp3
+# dnce - body moves --> DNCE_-_Body_Moves-NOBVEq_Bi5k.mp3
+# zara larsson - aint my fault --> Zara_Larsson_-_Ain_t_My_Fault_Official_Video-eC-F_VZ2T1c.mp3
+# the sound of silence original version 1964 --> The_Sound_of_Silence_Original_Version_from_1964-4zLfCnGVeL4.mp3
+# the royal concept - on our way --> The_Royal_Concept_-_On_Our_Way-nWyhUoxAbYI.mp3
+# john legend - all of me --> John_Legend_-_All_of_Me-450p7goxZqg.mp3
+# machine gun kelly, camila cabello - bad things --> Machine_Gun_Kelly_Camila_Cabello_-_Bad_Things-QpbQ4I3Eidg.mp3
+# alessia cara - seventeen --> Alessia_Cara_-_Seventeen-dB1w9Yiu3zo.mp3
+# john legend - love me now --> John_Legend_-_Love_Me_Now-NmCFY1oYDeM.mp3
+# marshmello - alone --> Marshmello_-_Alone_Monstercat_Official_Music_Video-YnwsMEabmSo.mp3
+# zedd - beautiful now --> Zedd_-_Beautiful_Now_ft._Jon_Bellion-n1a7o44WxNo.mp3
+# calvin harris - my way --> Calvin_Harris_-_My_Way_Official_Video-b4Bj7Zb-YD4.mp3
+# le festin - camille --> Le_Festin-v-3Z3jmDiL0.mp3
+# green day - 21 guns --> Green_Day_-_21_Guns_Official_Music_Video-r00ikilDxW4.mp3
+# clean bandit - rockabye --> Clean_Bandit_-_Rockabye_ft._Sean_Paul_Anne-Marie_Official_Video-papuvlVeZg8.mp3
+# the weeknd - starboy --> The_Weeknd_-_Starboy_official_ft._Daft_Punk-34Na4j8AVgA.mp3
+# britney spears - slumber party --> Britney_Spears_-_Slumber_Party_ft._Tinashe-2RRY3OVqtwc.mp3
+# major lazer - cold water --> Major_Lazer_-_Cold_Water_feat._Justin_Bieber_MO_Official_Lyric_Video-a59gmGkq_pw.mp3
+# dj snake - let me love you --> DJ_Snake_-_Let_Me_Love_You_ft._Justin_Bieber-euCqAq6BRa4.mp3
+# Taylor Swift - Blank space --> Taylor_Swift_-_Blank_Space-e-ORhEE9VVg.mp3
+# vengaboys - boom boom --> Vengaboys_-_Boom_Boom_Boom_Boom-llyiQ4I-mcQ.mp3
+# Zara Larsson - Lush Life --> Zara_Larsson_-_Lush_Life-tD4HCZe-tew.mp3
+# Duke Dumont - Ocean Drive --> Duke_Dumont_-_Ocean_Drive-KDxJlW6cxRk.mp3
+# Zayn - Pillowtalk --> ZAYN_-_PILLOWTALK-C_3d6GntKbk.mp3
+# Cant stop the feeling - justin timberlake --> CAN_T_STOP_THE_FEELING_From_DreamWorks_Animation_s_Trolls_Official_Video-ru0K8uYEZWw.mp3
+# Mike posner - i took a pill in ibiza --> Mike_Posner_-_I_Took_A_Pill_In_Ibiza_Seeb_Remix_Explicit-foE1mO2yM04.mp3
+# Hotel california --> Eagles_-_Hotel_California_High_Quality-lHje9w7Ev4U.mp3
+# Fifth harmony - work from home --> Fifth_Harmony_-_Work_from_Home_ft._Ty_Dolla_ign-5GL9JoH4Sws.mp3
+# More to add here - I am feeling lazy.
+
+# Hawa hawai - shaitan --> Hawa_Hawai_Shaitan_Movie_Full_Video_Song_Kalki_Koechlin-V0FotIwYhMw.mp3
+# Lungi dance --> Lungi_Dance_The_Thalaiva_Tribute_Official_Full_Song_Honey_Singh_Shahrukh_Khan_Deepika_Padukone-2kWLyInyjOE.mp3
+# jhingaat - ajay atul --> Zingaat_Official_Full_Video_-_Sairat_Nagraj_Manjule_Ajay_Atul-2gcsgfzqN8k.mp3
+# A headful of dreams - Coldplay --> Coldplay_-_A_Head_Full_Of_Dreams_Official_Video-vGZMvV9KBp8.mp3
