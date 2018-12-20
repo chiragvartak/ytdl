@@ -1,8 +1,8 @@
 # ytdl
 
-What I usually do when I hear a song that I decide I like, is, I note it down in my phone. Previously, on, say, a weekend, I would sit in front of my computer and download all this songs that I have noted down (in Google Keep). But when the list becomes too large, I find that I cannot bring myself to sit down and download all the songs in them. I guess I just like the patience and tolerance to do such arduous grunt (but essential) work. Hence the requirement for this Python script.
+What I usually do when I hear a song that I decide I like, is, I note it down in my phone. Previously, on, say, a weekend, I would sit in front of my computer and download all this songs that I have noted down (in Google Keep). But when the list becomes too large, I find that I cannot bring myself to sit down and download all the songs in them. I guess I just lack the patience and tolerance to do such arduous grunt (but essential) work. Hence the requirement for this Python script.
 
-What this Python script does, is, for each song in a text file, it searches for that song on Youtube and downloads only the audio as an mp3 file. It uses the tool [youtube-dl](https://rg3.github.io/youtube-dl/) to do this.
+This script searches for each song, present on a text file, on Youtube and downloads the audio as an mp3 file. It uses the tool [youtube-dl](https://rg3.github.io/youtube-dl/) to do this.
 
 ## Usage
 
